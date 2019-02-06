@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	
+
+}
+.h1{
+	font-size: 70px;
+}
+
+.large-square{
+	color: red;
+	width: 500px;
+	height: 500px;
+	margin: 20px;
+	position: absolute;
+}
+
+.small-square{
+	color: green;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	margin: 20px
+}
