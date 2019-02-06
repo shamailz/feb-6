@@ -20,7 +20,7 @@
 }
 
 .blue-square{
-	background-color: hsl(159, 75%, 89%);
+	background-color: hsl(58, 73%, 89%);
 	width: 100px;
 	height: 100px;
 	position: relative;
@@ -29,7 +29,7 @@
 	top: 10px;
 }
 .green-square{
-	background-color: hsl(216, 73%, 89%);
+	background-color: hsl(58, 73%, 89%);
 	width: 100px;
 	height: 100px;
 	margin: 10px;
@@ -39,7 +39,7 @@
 }
 
 .orange-square{
-	background-color: hsl(36, 72%, 89%);
+	background-color: hsl(58, 73%, 89%);
 	width: 100px;
 	height: 100px;
 	position: relative;

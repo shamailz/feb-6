@@ -11,23 +11,23 @@
 }
 .purple-square{
 	background-color: hsl(239, 72%, 89%);
-	width: 270px;
-	height: 270px;
+	width: 280px;
+	height: 280px;
 	position: absolute;
 	margin: 20px;
-	left: 60px;
-	top: 120px;
+	left: 50px;
+	top: 110px;
 }
 
 .blue-circle{
 	background-color: hsl(159, 75%, 89%);
-	width: 270px;
-	height: 270px;
+	width: 280px;
+	height: 280px;
 	border-radius: 50%;
 	position: relative;
 	margin: 20px;
-	left: 60px;
-	top: 83px;
+	left: 50px;
+	top: 73px;
 }
 .green-circle{
 	background-color: hsl(216, 73%, 89%);
