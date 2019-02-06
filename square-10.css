@@ -4,22 +4,22 @@
 }
 .pink-square{
 	background-color: hsl(339, 75%, 89%);
-	width: 200px;
+	width: 400px;
 	height: 400px;
 	margin: 10px;
 	position: absolute;
 }
 .purple-square{
 	background-color: hsl(239, 72%, 89%);
-	width: 200px;
-	height: 400px;
+	width: 300px;
+	height: 300px;
 	position: absolute;
 	margin: 20px;
 	left: 190px;
 	top: 47px;
 }
 
-.blue-square{
+.blue-circle{
 	background-color: hsl(159, 75%, 89%);
 	width: 100px;
 	height: 100px;
@@ -28,7 +28,7 @@
 	left: 190px;
 	top: 10px;
 }
-.green-square{
+.green-circle{
 	background-color: hsl(216, 73%, 89%);
 	width: 100px;
 	height: 100px;
@@ -36,23 +36,4 @@
 	position: absolute;
 	top: 157px;
 	left: 100px;
-}
-
-.orange-square{
-	background-color: hsl(36, 72%, 89%);
-	width: 100px;
-	height: 100px;
-	position: relative;
-	margin: 20px;
-	left: 190px;
-	top: 90px;
-}
-.yellow-square{
-	background-color: hsl(58, 73%, 89%);
-	width: 100px;
-	height: 100px;
-	position: relative;
-	margin: 20px;
-	left: 90px;
-	top: 70px;
 }
