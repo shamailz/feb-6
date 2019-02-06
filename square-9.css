@@ -4,10 +4,19 @@
 }
 .pink-square{
 	background-color: hsl(339, 75%, 89%);
-	width: 400px;
+	width: 200px;
 	height: 400px;
 	margin: 10px;
 	position: absolute;
+}
+.purple-square{
+	background-color: hsl(239, 72%, 89%);
+	width: 200px;
+	height: 400px;
+	position: absolute;
+	margin: 20px;
+	left: 190px;
+	top: 47px;
 }
 
 .blue-square{
@@ -25,7 +34,7 @@
 	height: 100px;
 	margin: 10px;
 	position: absolute;
-	top: 57px;
+	top: 157px;
 	left: 100px;
 }
 
@@ -36,7 +45,7 @@
 	position: relative;
 	margin: 20px;
 	left: 190px;
-	top: -10px;
+	top: 90px;
 }
 .yellow-square{
 	background-color: hsl(58, 73%, 89%);
@@ -44,15 +53,6 @@
 	height: 100px;
 	position: relative;
 	margin: 20px;
-	left: 190px;
-	top: -10px;
-}
-.purple-square{
-	background-color: hsl(239, 72%, 89%);
-	width: 100px;
-	height: 100px;
-	position: relative;
-	margin: 20px;
-	left: 190px;
-	top: -10px;
+	left: 90px;
+	top: 70px;
 }
