@@ -2,8 +2,7 @@
 	padding: 0;
 	margin: 0;
 }
-
-.large-square{
+.blue-square{
 	background-color: hsl(339, 75%, 89%);
 	width: 400px;
 	height: 400px;
@@ -11,7 +10,7 @@
 	position: absolute;
 }
 
-.small-square{
+.pink-square{
 	background-color: hsl(159, 75%, 89%);
 	width: 100px;
 	height: 100px;
