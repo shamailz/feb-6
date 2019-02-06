@@ -2,6 +2,9 @@
 	padding: 0;
 	margin: 0;
 }
+body {
+	text-decoration: none;
+}
 
 .large-square{
 	background-color: hsl(339, 75%, 89%);
