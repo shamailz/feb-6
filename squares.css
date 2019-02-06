@@ -16,9 +16,10 @@ body {
 
 .small-square{
 	background-color: hsl(159, 75%, 89%);
-	width: 100px;
-	height: 100px;
+	width: 200px;
+	height: 200px;
 	position: relative;
 	margin: 20px;
-	top: 20px;
+	top: 10px;
+	left: 190px;
 }
