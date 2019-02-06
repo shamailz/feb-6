@@ -11,29 +11,31 @@
 }
 .purple-square{
 	background-color: hsl(239, 72%, 89%);
-	width: 300px;
-	height: 300px;
+	width: 270px;
+	height: 270px;
 	position: absolute;
 	margin: 20px;
-	left: 190px;
-	top: 47px;
+	left: 60px;
+	top: 120px;
 }
 
 .blue-circle{
 	background-color: hsl(159, 75%, 89%);
-	width: 100px;
-	height: 100px;
+	width: 270px;
+	height: 270px;
+	border-radius: 50%;
 	position: relative;
 	margin: 20px;
-	left: 190px;
-	top: 10px;
+	left: 60px;
+	top: 83px;
 }
 .green-circle{
 	background-color: hsl(216, 73%, 89%);
-	width: 100px;
-	height: 100px;
+	width: 400px;
+	height: 400px;
+	border-radius: 50%;
 	margin: 10px;
 	position: absolute;
-	top: 157px;
-	left: 100px;
+	top: 57px;
+	left: 0px;
 }
