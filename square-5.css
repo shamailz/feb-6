@@ -13,7 +13,7 @@
 .pink-square{
 	background-color: hsl(159, 75%, 89%);
 	width: 200px;
-	height: 200px;
+	height: 100px;
 	position: relative;
 	margin: 20px;
 	left: 190px;
@@ -22,7 +22,7 @@
 .green-square{
 	background-color: hsl(216, 73%, 89%);
 	width: 200px;
-	height: 200px;
+	height: 100px;
 	margin: 10px;
 	position: absolute;
 	top: 57px;
@@ -31,9 +31,9 @@
 .orange-square{
 	background-color: hsl(36, 72%, 89%);
 	width: 200px;
-	height: 200px;
+	height: 100px;
 	position: relative;
 	margin: 20px;
-	left: -10px;
-	top: -10px;
+	left: 90px;
+	top: 90px;
 }
